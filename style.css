@@ -62,7 +62,7 @@ body {
     border: 1px solid black;
 }
 .wrapper.generate {
-    height: 525px;
+    height: 500px;
 }
 .qr-code img.generate {
     opacity: 1;
